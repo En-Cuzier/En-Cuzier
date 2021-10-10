@@ -54,13 +54,14 @@ https://gist.github.com/rxaviers/7360908
 https://simpleicons.org/
 
 -->
-📝 ***Feel free to contact me. I am always here ...*** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/cham2003?label=Follow%20Me&style=social)](https://github.com/PYMaster-ft)
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  [![Github](https://img.shields.io/github/followers/En-Cuzier?label=Follow%20Me&style=social)](https://github.com/PYMaster-ft)
 <br>
 <br>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-EnCuzier-blue)](https://www.linkedin.com/in/En-Cuzier-954a741b8/)
 [![Mail](https://img.shields.io/badge/Hotmail-chamodya277@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](#)
 <br>
 [![Hackthebox](https://img.shields.io/badge/Hack%20the%20box-Encuzier-green)](https://app.hackthebox.eu/profile/overview)
+
 [![HackerRank](https://img.shields.io/badge/Hacker%20rank-Encuzier-green)](https://www.hackerrank.com/sasipclass)
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
@@ -88,6 +89,7 @@ https://simpleicons.org/
 
 ![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat&logo=react&labelColor=000000)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=PHP&logoColor=5466b8&labelColor=ffffff)
+
 ![WordPress](https://img.shields.io/badge/-WordPress-000000?style=flat&logo=wordpress&labelColor=21759B)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel&logoColor=ffffff&labelColor=FF2D20)
 
