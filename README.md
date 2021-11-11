@@ -6,6 +6,8 @@
 ![My card name](https://cardivo.vercel.app/api?name=En%20-%20Cuzier&description=Hi,%20Welcome%20To%20My%20Profile%20❤&image=https://telegra.ph/file/e03e7e9258b292cf33cf1.jpg/images?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=%23ecf0f1&instagram=___En____cuzier___&linkedin=___En____Cuzier___&github=En-Cuzier&twitter=@En-Cuzier&pattern=leaf&colorPattern=%23eaeaea)
 
 
+![logo](https://github.com/En-Cuzier.png)
+
 💻 **Languages and Tools:** 🛠️<br>
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
